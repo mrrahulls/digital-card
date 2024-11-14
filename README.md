@@ -1,0 +1,1 @@
+This repository contains an interactive digital business card for Rahul Singh, a Software Engineer. The card showcases personal details such as contact information, email, LinkedIn profile, and a downloadable resume. It is designed using HTML and CSS, with hover effects and a sleek, modern interface.
